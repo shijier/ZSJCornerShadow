@@ -37,6 +37,9 @@
     [bgView addSubview:lable];
     
     
+    //测试测试 git 修改
+    
+    
     
     // Do any additional setup after loading the view, typically from a nib.
 }
